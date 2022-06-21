@@ -1,6 +1,7 @@
 # GoLang Study Guide
 > Repositories to run study groups effectively
 
+[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 ![Codacy coverage](https://img.shields.io/codacy/coverage/test?label=npm&logo=steam&logoColor=black&style=flat-square)
