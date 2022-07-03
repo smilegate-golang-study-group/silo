@@ -1,3 +1,7 @@
+# Structs
+
+## code
+```go
 package main
 
 import "fmt"
@@ -29,3 +33,15 @@ func main() {
 	sp.age = 51
 	fmt.Println(sp.age)
 }
+```
+#### 결과:
+```bash
+{Bob 20}
+{Alice 30}
+{Fred 0}
+{Ann 40}
+&{Jon 42}
+Sean
+50
+51
+```

@@ -1,3 +1,7 @@
+# Methods
+
+## code
+```go
 package main
 
 import "fmt"
@@ -24,3 +28,11 @@ func main() {
 	fmt.Println("area: ", rp.area())
 	fmt.Println("perim: ", rp.perim())
 }
+```
+#### 결과:
+```bash
+area:  50
+perim:  30
+area:  50
+perim:  30
+```
